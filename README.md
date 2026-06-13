@@ -1,4 +1,4 @@
-# Portfolio — dist0rted777
+# Portfolio — UDEGBE CHIDIEBERE
 
 Personal portfolio site covering **Audio & Video Production**, **Mechatronics Engineering (CAD / Electrical)**, and **VibeCodings** (AI-assisted app development).
 
