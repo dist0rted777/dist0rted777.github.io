@@ -9,3 +9,6 @@ ehthumbs.db
 # Source/reference material not shipped with the site
 JObs.png
 MyPic.jpeg
+
+# Internal planning docs (kept locally, not published)
+docs/
