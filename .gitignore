@@ -1,4 +1,11 @@
 .superpowers/
 .DS_Store
 Thumbs.db
+ehthumbs.db
 *.log
+*.swp
+.vscode/
+
+# Source/reference material not shipped with the site
+JObs.png
+MyPic.jpeg
