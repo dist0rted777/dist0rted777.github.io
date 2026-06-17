@@ -1,0 +1,2 @@
+Drop the CV here as cv.pdf — the "Download CV" button links to assets/cv/cv.pdf.
+Until then the button shows a "coming soon" state (see index.html contact section).
