@@ -27,6 +27,11 @@
       '<span class="ec-body">' +
       "<span class='ec-title'>" + p.title + "</span>" +
       "<span class='ec-blurb'>" + p.blurb + "</span>" +
+      (p.tech && p.tech.length
+        ? "<span class='ec-tech'>" +
+          p.tech.map(function (t) { return "<span class='tech'>" + t + "</span>"; }).join("") +
+          "</span>"
+        : "") +
       "<span class='ec-chips'>" + chips + "</span>" +
       "</span>";
     card.addEventListener("click", function () {
